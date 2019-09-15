@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1567823297 source:c:\users\mateen\documents\rehan\c proj\tic\tic.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
